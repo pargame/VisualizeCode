@@ -1,0 +1,13 @@
+{
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "github.copilot.chat.agent.runTasks": true,
+    "github.copilot.chat.reviewSelection.instructions": [
+        {
+            "file": ".github/copilot-review-instructions.md"
+        },
+        {
+            "text": "Resolve all TODO tasks."
+        }
+    ],
+    "github.copilot.chat.codeGeneration.useInstructionFiles": true
+}   
